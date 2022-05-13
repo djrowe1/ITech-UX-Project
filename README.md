@@ -5,4 +5,4 @@ Summary: Participated in User Experience focus groups to generate ideas for user
 
 Outcome was an interactive prototype:
 
-<img src="Rowe_prototype">
+<img src="interProtoVid.gif">
