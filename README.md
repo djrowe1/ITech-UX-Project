@@ -1,5 +1,5 @@
 # ITech-UX-Project
-Internship project for developing an interactive prototype of a web app.
+Internship project for developing an interactive prototype of a web app that allows retail stores to report crime incidents.
 
 Summary: Participated in User Experience focus groups to generate ideas for user needs and product features. Utilized Affinity Diagrams for creating and organizing product features into functionalities. Created personas to capture user characteristics and illustrated various user scenarios with narrative storyboard illustrations.
 
