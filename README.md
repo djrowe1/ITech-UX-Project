@@ -12,3 +12,15 @@ Interactive Prototype Link: https://www.figma.com/proto/YydFmOKgVVJprtSkqGplA8/L
 Taskflow chart:
 
 <img src="taskFlow.png">
+
+Storyboards:
+
+<img src="storyBoards.png">
+
+Personas:
+
+<img src="personas.png">
+
+Focus Statement and User Needs:
+
+<img src="userNeeds.png">
